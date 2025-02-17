@@ -1,0 +1,48 @@
+2025-02-17 11:04:29,544 - bot - INFO - Bot starting up...
+Current Date and Time (UTC): 2025-02-17 06:04:29
+Current Date and Time (Tashkent): 2025-02-17 11:04:29
+Current User's Login: gopher
+2025-02-17 11:04:29,546 - bot - INFO - Database initialized successfully
+2025-02-17 11:04:29,546 - bot - INFO - Starting bot polling...
+2025-02-17 11:04:29,547 - aiogram.dispatcher - INFO - Start polling
+2025-02-17 11:04:29,952 - aiogram.dispatcher - INFO - Run polling for bot @p11exam_bot id=6042323895 - 'p11uchunbot'
+2025-02-17 11:04:46,718 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-02-17 11:04:46,720 - aiogram.dispatcher - INFO - Polling stopped for bot @p11exam_bot id=6042323895 - 'p11uchunbot'
+2025-02-17 11:04:46,721 - aiogram.dispatcher - INFO - Polling stopped
+2025-02-17 11:04:46,975 - root - INFO - Bot shutdown complete
+2025-02-17 11:11:02,560 - bot - INFO - Bot starting up...
+Current Date and Time (UTC): 2025-02-17 06:11:02
+Current Date and Time (Tashkent): 2025-02-17 11:11:02
+Current User's Login: gopher
+2025-02-17 11:11:02,586 - bot - INFO - Database initialized successfully
+2025-02-17 11:11:02,588 - bot - INFO - Starting bot polling...
+2025-02-17 11:11:02,604 - aiogram.dispatcher - INFO - Start polling
+2025-02-17 11:11:06,119 - aiogram.dispatcher - INFO - Run polling for bot @Pdp_Retelling_bot id=7586590455 - 'Retelling Videos'
+2025-02-17 11:11:20,676 - aiogram.event - INFO - Update id=95147398 is handled. Duration 951 ms by bot id=7586590455
+2025-02-17 11:11:32,141 - aiogram.event - INFO - Update id=95147399 is handled. Duration 118 ms by bot id=7586590455
+2025-02-17 11:11:38,427 - aiogram.event - INFO - Update id=95147400 is handled. Duration 231 ms by bot id=7586590455
+2025-02-17 11:11:42,657 - aiogram.event - INFO - Update id=95147401 is handled. Duration 924 ms by bot id=7586590455
+2025-02-17 11:11:44,709 - aiogram.event - INFO - Update id=95147402 is handled. Duration 590 ms by bot id=7586590455
+2025-02-17 11:11:48,322 - aiogram.event - INFO - Update id=95147403 is handled. Duration 433 ms by bot id=7586590455
+2025-02-17 11:12:02,532 - aiogram.event - INFO - Update id=95147404 is handled. Duration 2150 ms by bot id=7586590455
+2025-02-17 11:12:08,050 - aiogram.event - INFO - Update id=95147405 is handled. Duration 1529 ms by bot id=7586590455
+2025-02-17 11:13:04,817 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-02-17 11:13:04,821 - aiogram.dispatcher - INFO - Polling stopped for bot @Pdp_Retelling_bot id=7586590455 - 'Retelling Videos'
+2025-02-17 11:13:04,821 - aiogram.dispatcher - INFO - Polling stopped
+2025-02-17 11:13:05,078 - root - INFO - Bot shutdown complete
+2025-02-17 11:14:12,946 - bot - INFO - Bot starting up...
+Current Date and Time (UTC): 2025-02-17 06:14:12
+Current Date and Time (Tashkent): 2025-02-17 11:14:12
+Current User's Login: gopher
+2025-02-17 11:14:12,951 - bot - INFO - Database initialized successfully
+2025-02-17 11:14:12,952 - bot - INFO - Starting bot polling...
+2025-02-17 11:14:12,953 - aiogram.dispatcher - INFO - Start polling
+2025-02-17 11:14:15,462 - aiogram.dispatcher - INFO - Run polling for bot @Pdp_Retelling_bot id=7586590455 - 'Retelling Videos'
+2025-02-17 11:14:20,431 - aiogram.event - INFO - Update id=95147406 is handled. Duration 375 ms by bot id=7586590455
+2025-02-17 11:14:24,997 - aiogram.event - INFO - Update id=95147407 is handled. Duration 220 ms by bot id=7586590455
+2025-02-17 11:14:32,743 - aiogram.event - INFO - Update id=95147408 is handled. Duration 1394 ms by bot id=7586590455
+2025-02-17 11:14:43,441 - aiogram.event - INFO - Update id=95147409 is handled. Duration 7624 ms by bot id=7586590455
+2025-02-17 11:15:58,453 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-02-17 11:15:58,463 - aiogram.dispatcher - INFO - Polling stopped for bot @Pdp_Retelling_bot id=7586590455 - 'Retelling Videos'
+2025-02-17 11:15:58,464 - aiogram.dispatcher - INFO - Polling stopped
+2025-02-17 11:15:58,719 - root - INFO - Bot shutdown complete

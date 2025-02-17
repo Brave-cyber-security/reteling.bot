@@ -30,8 +30,7 @@ except ValueError:
 
 GROUPS = [
     "101", "102", "103",
-    "201", "202", "203", "204", "205", "206", "207", "208", 
-    "209", "210", "211", "212", "213", "214", "215", "246"
+    "104", "202", 
 ]
 
 bot = Bot(token=TOKEN)
@@ -462,6 +461,9 @@ async def process_grade(callback_query: CallbackQuery):
     
     del message_student_map[message_id]
     await callback_query.answer("✅ Baho muvaffaqiyatli qo'yildi!")
+    await asyncio.sleep(5)
+    await bot.delete_message(chat_id=TEACHER_ID, message_id=callback_query.message.message_id)
+
 
 # Update show_group_statistics function to include more detailed stats
 async def get_group_average(db, group):
@@ -806,7 +808,7 @@ async def main():
         level=logging.INFO,
         format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
         handlers=[
-            logging.FileHandler('bot.log'),
+            logging.FileHandler('bot1.log'),
             logging.StreamHandler()
         ]
     )
